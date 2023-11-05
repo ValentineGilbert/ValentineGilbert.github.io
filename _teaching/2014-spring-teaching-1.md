@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Econometric Methods for Applied Research I"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/metrics-I
+venue: "Harvard Kennedy School"
+year: "Fall 2019-2021"
+location: # "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+**Overall Effectiveness:** 5/5 (2019), 5/5 (2020), 5/5 (2021)<br/><br/>
+<q>Valentine was a phenomenal section leader. He had a real knack for demystifying potentially confusing topics and making things feel a lot more intuitive. His sections were always so thoughtfully planned and effectively executed. He was such a friendly person to seek out for help and is a big reason I felt Econ 2110 was such a well–supported and rewarding academic experience.</q>

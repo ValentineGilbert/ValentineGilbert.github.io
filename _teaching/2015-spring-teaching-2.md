@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Econometric Methods for Applied Research II"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/metrics-II
+venue: "Harvard Kennedy School"
+year: "Spring 2020-2022"
+location: # "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Overall Effectiveness:** 5/5 (2020), 5/5 (2021), 5/5 (2022)<br/><br/>
+<q>Valentine was a phenomenal TA and Section Leader. He has such incredible command of the material and organized the most helpful and effective review sections. Challenging topics always made more sense after hearing Valentine explain them. He gave helpful feedback on assignments as well. In addition, he was always so supportive and encouraging and this made such a big difference this entire year in econometrics. I'm grateful to him for making this such a rewarding and fun experience!</q>
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
