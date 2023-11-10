@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Working Papers
-### Suburban Housing and Urban Affordability: Evidence from Residential Vacancy Chains (Job Market Paper)
+### [Suburban Housing and Urban Affordability: Evidence from Residential Vacancy Chains (Job Market Paper)](https://valentinegilbert.github.io/files/gilbert_jmp.pdf)
 _With [Robert French](https://robert-french.github.io/)_
 
 This paper investigates the role that residential vacancy chains -- the sequence of moves across housing units initiated by the construction of a new housing unit -- play in linking different housing submarkets. We focus in particular on how the market for suburban single-family homes affects the market for dense urban housing in multifamily buildings. Using administrative data on the residential histories of the U.S. population, we describe the distribution of vacancies created by different kinds of new housing. A key finding is that vacancy chains end quickly, with 90\% ending within three rounds of moves. We then conduct a simulation exercise to understand what the observed patterns of vacancy chains imply about the welfare and price effects of new housing supply. We show that the geographic distribution of moves created by vacancy chains is correlated with the geographic distribution of welfare and price effects, and that the number of vacancies created in a neighborhood is as strong a predictor of price effects as are model-derived cross-neighborhood substitution effects. These results, along with our descriptive results, imply that the incidence of the benefits of new housing depend strongly on what kind of housing is built and where. Draft coming soon.
