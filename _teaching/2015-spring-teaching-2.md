@@ -9,5 +9,5 @@ location: # "City, Country"
 ---
 
 **Overall Effectiveness:** 5/5 (2020), 5/5 (2021), 5/5 (2022)<br/><br/>
-<q>Valentine was a phenomenal TA and Section Leader. He has such incredible command of the material and organized the most helpful and effective review sections. Challenging topics always made more sense after hearing Valentine explain them. He gave helpful feedback on assignments as well. In addition, he was always so supportive and encouraging and this made such a big difference this entire year in econometrics. I'm grateful to him for making this such a rewarding and fun experience!</q>
-
+[Section Slides](https://github.com/ValentineGilbert/Econ-2115-section-notes)<br/><br/>
+<q>Valentine is a great TF, perhaps the best TF I have had. He is patient, incredibly responsive to emails and questions, and is great at breaking down complicated materials and explaining them in a way that is easy to understand. Valentine would be a great teacher of this course one day!</q>
